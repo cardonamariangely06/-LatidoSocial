@@ -1,7 +1,7 @@
 {
-  "name": "mi-producto",
+  "name": "latidosocial",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación · cambia este texto por la descripción de tu producto",
+  "description": "Proyecto de Recaudacion a través de una plataforma digital (web), encargada de impulsar propuestas humanitarios y bienestar comunitario. Lenguaje de Programación III, ",
   "private": true,
   "type": "module",
   "engines": {
